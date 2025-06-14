@@ -166,7 +166,7 @@ footer {
 .support-btn {
   display: inline-flex;
   align-items: center;
-  background: linear-gradient(90deg, #ff4b2b 0%, #ff416c 100%);
+  background: linear-gradient(90deg, #000000 0%, #000000 100%);
   color: #fff;
   font-weight: bold;
   font-size: 1.08em;
