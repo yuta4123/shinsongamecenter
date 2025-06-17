@@ -1,5 +1,13 @@
 [
     {
+      "title": "現在地マーカー",
+      "desc": "現在地が分かる。",
+      "path": "https://yuta4123.github.io/block/",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/800px-Fronalpstock_big.jpg",
+      "updated": "2025-06-17"
+    },
+    
+    {
       "title": "文字表示ブロック崩し",
       "desc": "何が書いてあるのでしょう",
       "path": "https://yuta4123.github.io/block/",
